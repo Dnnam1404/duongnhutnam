@@ -8,5 +8,6 @@ namespace DemoGit.Models
 {
     internal class Student
     {
+        public int Id { get; set; }
     }
 }
